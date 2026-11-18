@@ -433,7 +433,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qeeAbcq93ENYlhJ8Ivcp-12" parent="qeeAbcq93ENYlhJ8Ivcp-10" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" value="" vertex="1">
+        <mxCell id="qeeAbcq93ENYlhJ8Ivcp-12" parent="qeeAbcq93ENYlhJ8Ivcp-10" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" value="strain_accession_id" vertex="1">
           <mxGeometry height="30" width="220" x="30" as="geometry">
             <mxRectangle height="30" width="220" as="alternateBounds" />
           </mxGeometry>
