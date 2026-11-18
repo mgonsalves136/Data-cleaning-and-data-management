@@ -1,0 +1,52 @@
+procedure_id,name,description
+1,Insulin Blood Level,The insulin concentration in the blood is an important indicator of diabetes.Ontological description: abnormal circulating insulin level [MP:0001560]; increased circulating insulin level [MP:0002079]; decreased circulating insulin level [MP:0002727].
+2,Electrocardiogram (ECG),To provide a high throughput method to obtain Electrocardiograms in a conscious mouse or an anesthetized mouse.
+3,Gross Pathology and Tissue Collection,
+4,Histopathology,
+5,Welfare Observations,The Welfare Observations procedure is used for the recording of welfare issues as and when they occur.
+6,Gross Morphology Embryo E9.5,
+7,Housing and Husbandry,Housing_and_husbandry
+8,Hematology,Hematological assessment of blood determines blood cell counts (white blood cells red blood cells hemoglobin and platelets) and additional hematological parameters (hematocrit mean cell volume mean corpuscular hemoglobin mean cell hemoglobin concentration) can be derived using these indices. These tests will indicate abnormalities in the production of blood and its components (blood cells and hemoglobin) as well as in the associated blood-forming organs.&nbsp;Ontological description: MP:0002429 - abnormal blood cell morphology/development.
+9,Formalin Test,
+10,Fertility of Homozygous Knock-out Mice,To assess the fertility of homozygous knockout mice.
+11,Combined SHIRPA and Dysmorphology,SHIRPA and dysmorphology were originally always separate assessments.&nbsp; However they have recently been combined as assessments so that they take place at the same time.The purpose of the assessments is to examine mice for obvious physical characteristics behaviors and morphological abnormalities.Descriptions include abnormal locomotion/appearance/behavior/reflex reactions.
+12,Fear Conditioning,Fear Conditioning test assesses aversive learning and memory
+13,X-ray,Construct and analyse digital X-ray images in immobilised mice using a Faxitron X-Ray system or NTB digital X-ray scanner.
+14,Viability E12.5 Secondary Screen,
+15,Gross Morphology Embryo E12.5,
+16,OPT E9.5,
+17,Y-maze,Y-maze assesses learning and memory; it can be used instead/in parallel of Fear Conditioning
+18,Light-Dark Test,Light-Dark test monitors the anxiety-related behaviour of mice
+19,Gross Morphology Embryo E14.5-E15.5,
+20,Acoustic Startle and Pre-pulse Inhibition (PPI),
+21,Embryo LacZ,
+22,MicroCT E14.5-E15.5,
+23,Gross Morphology Embryo E18.5,
+24,MicroCT E9.5,
+25,Clinical Chemistry,
+26,Adult LacZ,
+27,Viability E14.5-E15.5 Secondary Screen,
+28,Eye Morphology,To detect abnormalities in eye morphology.
+29,Immunophenotyping,Immunophenotyping of immune system cells
+30,Viability Primary Screen,Assess the viability of mutant mice of each sex and zygosity.
+31,Indirect Calorimetry,
+32,Heart Weight,To evaluate cardiac size using heart weight and body weight.
+33,Viability E18.5 Secondary Screen,
+34,MicroCT E18.5,
+35,Experimental design,
+36,Tissue Embedding and Block Banking,Collect and fix a standard list of tissues from the complete necropsy (see IMPC Gross Pathology &amp; Tissue Collection SOP)Trim the fixed tissues into cassettes for processingEmbed the tissues in paraffin in a standard orientation
+37,Open Field,The Open Field test is used to assess anxiety and exploratory behaviors. It is based on the natural tendency of an animal to explore and to protect itself using avoidance which translates to a normal animal spending more time in the periphery of the Open Field arena than in the center (the most anxiogenic area).
+38,Intraperitoneal glucose tolerance test (IPGTT),
+39,Echo,To assess the functionality of the heart in order to determine the presence of a mutant phenotype.
+40,Gross Morphology Placenta E9.5,
+41,Challenge Whole Body Plethysmography,
+42,Gross Morphology Placenta E12.5,
+43,Organ Weight,Organ weights from different tissues collected for IMPC
+44,MicroCT E14.5-E15.5 Analysis,
+45,Auditory Brain Stem Response,Auditory brainstem response test determines hearing sensitivity and other physiological parameters using evoked potential recordings in anesthetized mice.Ontological description: MP:0004738 - abnormal brainstem auditory evoked potential.
+46,Body Weight,
+47,Body Composition (DEXA lean/fat),Measure bone mineral content and density as well as body composition in mice using the DEXA (Dual Energy X-ray Absorptiometry) analyser.
+48,Gross Morphology Placenta E14.5-E15.5,
+49,Viability E9.5 Secondary Screen,
+50,Grip Strength,
+51,Gross Morphology Placenta E18.5,

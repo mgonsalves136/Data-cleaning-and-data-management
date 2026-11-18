@@ -1,0 +1,9 @@
+group_id,name,rule
+1,weight,\bweight\b
+2,images,\b(image|images|imaging|photograph|photographs)\b
+3,brain,\b(brain|cerebr\w*|cerebell\w*|hippocamp\w*|cortex|cortical)\b
+4,blood,\b(blood|hemat\w*|haemat\w*|hemoglobin|haemoglobin|erythrocyt\w*|leukocyt\w*|platelet\w*)\b
+5,cardiovascular,\b(heart|cardiac|ecg|electrocardio\w*|ventric\w*|aortic|pulse)\b
+6,eye_vision,\b(eye|vision|visual|retina\w*|cornea\w*|pupil\w*|ocular)\b
+7,hearing,\b(hearing|auditory|acoustic|abr|ear)\b
+8,grip_strength,\b(grip|strength)\b
