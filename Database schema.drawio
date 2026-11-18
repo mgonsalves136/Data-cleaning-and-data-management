@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-2" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" value="Phenotyping procedure" vertex="1">
-          <mxGeometry height="150" width="250" x="-30" y="-250" as="geometry" />
+          <mxGeometry height="150" width="250" x="270" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-3" parent="C-vyLk0tnHw3VtMMgP7b-2" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="250" y="30" as="geometry" />
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mQf17DIm9CugJ_w3uk9K-6" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" value="Phenotyping parameter " vertex="1">
-          <mxGeometry height="150" width="250" x="-311" y="-250" as="geometry" />
+          <mxGeometry height="150" width="250" x="270" y="100" as="geometry" />
         </mxCell>
         <mxCell id="mQf17DIm9CugJ_w3uk9K-7" parent="mQf17DIm9CugJ_w3uk9K-6" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="250" y="30" as="geometry" />
@@ -268,7 +268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mQf17DIm9CugJ_w3uk9K-99" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" value="Disease ontology " vertex="1">
-          <mxGeometry height="140" width="250" x="-30" y="-70" as="geometry" />
+          <mxGeometry height="140" width="250" x="270" y="-250" as="geometry" />
         </mxCell>
         <mxCell id="mQf17DIm9CugJ_w3uk9K-100" parent="mQf17DIm9CugJ_w3uk9K-99" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="250" y="30" as="geometry" />
@@ -360,7 +360,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qeeAbcq93ENYlhJ8Ivcp-2" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" value="Phenotype test" vertex="1">
-          <mxGeometry height="140" width="250" x="-310" y="-70" as="geometry" />
+          <mxGeometry height="140" width="250" x="270" y="290" as="geometry" />
         </mxCell>
         <mxCell id="qeeAbcq93ENYlhJ8Ivcp-3" parent="qeeAbcq93ENYlhJ8Ivcp-2" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="250" y="30" as="geometry" />
@@ -450,6 +450,9 @@
             </mxGeometry>
           </mxCell>
         </object>
+        <mxCell id="XoThMbq7YU2Po9s4kHFs-16" parent="1" style="whiteSpace=wrap;html=1;" value="Raw experimental data analysis" vertex="1">
+          <mxGeometry height="60" width="530" x="-430" y="-360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
