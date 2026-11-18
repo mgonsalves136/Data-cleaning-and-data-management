@@ -209,7 +209,7 @@
             <mxRectangle height="30" width="220" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQf17DIm9CugJ_w3uk9K-63" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" value="Mutated gene" vertex="1">
+        <mxCell id="mQf17DIm9CugJ_w3uk9K-63" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" value="Mouse gene" vertex="1">
           <mxGeometry height="150" width="250" x="-590" y="-250" as="geometry" />
         </mxCell>
         <mxCell id="mQf17DIm9CugJ_w3uk9K-64" parent="mQf17DIm9CugJ_w3uk9K-63" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
