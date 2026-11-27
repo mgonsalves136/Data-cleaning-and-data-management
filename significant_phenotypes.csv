@@ -1,0 +1,60 @@
+"mouse_gene_symbol","parameter_name","pvalue"
+Clec3b,ST,0.0
+Clec3b,"6kHz-evoked ABR Threshold",0.0151509
+Folh1,Retina (combined),0.0319472
+Folh1,Side changes,0.00372681
+Folh1,Periphery average speed,0.00022525
+Folh1,"18kHz-evoked ABR Threshold",0.0283333
+Folh1,Time mobile dark side,0.0000642598
+Folh1,Red blood cell count,0.0450799
+Folh1,Distance travelled - total,0.000435897
+Folh1,Free fatty acids,0.0431592
+Folh1,Periphery distance travelled,0.000942233
+Enho,Periphery average speed,0.000548086
+Enho,Center permanence time,0.0443582
+Enho,Periphery distance travelled,0.000850266
+Enho,Basophil cell count,0.00537097
+Enho,Neutrophil differential count,0.00133099
+Enho,Monocyte differential count,0.0043919
+Enho,Alkaline phosphatase,0.0150246
+Enho,Urea (Blood Urea Nitrogen - BUN),0.00270411
+Enho,Percentage center time,0.0312155
+Enho,Eosinophil cell count,0.0077708
+Enho,HR,0.00116656
+Enho,Whole arena average speed,0.0000774197
+Enho,Heart weight,0.021454
+Enho,Fat mass,0.035341
+Enho,Coat - color - head,0.0
+Enho,Mean cell hemoglobin concentration,0.0
+zfp616,"24kHz-evoked ABR Threshold",0.035443
+zfp616,Fasted blood glucose concentration,0.000134088
+zfp616,Digit integrity,0.0479743
+zfp616,Phosphorus,0.0166649
+zfp616,Snout morphology,0.0197186
+zfp616,KLRG1+ CD4+ T helper cells - % of CD4+ T helper cells,0.0
+zfp616,Total CD4+ T cells - % of ab T cells,0.0
+zfp616,Teeth,0.024699
+Gna11,LVIDd,0.00123815
+Gna11,Vibrissae - presence,0.0295883
+Gna11,% Pre-pulse inhibition - PPI3,0.000347297
+Gna11,Forelimb grip strength normalised against body weight,0.00280957
+Gna11,Periphery permanence time,0.0438949
+Gna11,Click-evoked ABR threshold,0.026087
+Gna11,Center distance travelled,0.0341827
+Gna11,Vibrissae - appearance,0.0
+Gna11,Fusion of vertebrae,0.0000000744705
+Gna11,Latency to center entry,0.0311535
+Gna11,Red blood cell distribution width,0.00000000118803
+Gna11,Red blood cell count,0.00000000153714
+Gna11,"18kHz-evoked ABR Threshold",0.030303
+Gna11,Bone Mineral Density (excluding skull),0.0187227
+Gna11,BMC/Body weight,0.0254879
+Gna11,"30kHz-evoked ABR Threshold",0.0394737
+Gna11,Lower teeth appearance,0.0247054
+Gna11,"12kHz-evoked ABR Threshold",0.0304348
+Gna11,Forelimb grip strength measurement mean,0.0232458
+Gna11,Bone Mineral Content (excluding skull),0.0020718
+Gna11,Coat - color pattern - abdomen,0.0420216
+Gna11,"24kHz-evoked ABR Threshold",0.0262009
+Gna11,Stroke Volume,0.00595204
+Gna11,Fasted blood glucose concentration,0.00054066
